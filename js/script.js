@@ -6,7 +6,8 @@
 
 //Coded by Tadeas
 const width = $("window").width();
-
+const heigth = $("window").heigth();
+$(document).ready(function(){});
 
 //Coded by Luca
 $
